@@ -1,5 +1,7 @@
 /**
  * Algorytm wyznaczania miejsca zerowego za pomocą bisekcji
+ 
+ 
  * @author Adam Tomaja
  */
 public class Bisection {
